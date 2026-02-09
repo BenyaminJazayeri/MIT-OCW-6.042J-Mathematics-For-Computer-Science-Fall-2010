@@ -23,7 +23,7 @@ Course Link: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science
 | Counting and Asymptotics | Sums, asymptotics, divide and conquer recurrences, linear recurrences, counting rules |
 | Probability | Introduction, conditional probability, independence, random variables, expectation, large deviations, random walks |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|
