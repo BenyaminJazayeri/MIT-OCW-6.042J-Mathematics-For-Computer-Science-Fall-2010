@@ -27,11 +27,11 @@ Course Link: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science
 
 | Assessment | Grade |
 |------------|-------|
-| Midterm Practice Problems | 107/125 |
-| Midterm | 97/120 |
-| 2004 Final | 100/100 |
-| 2006 Final | 100/100 |
-| 2008 Final | 100/100 |
+| [Midterm Practice Problems](./Midterm%20Practice%20Problems) | 107/125 |
+| [Midterm](./Midterm) | 97/120 |
+| [2004 Final](./2004%20Final) | 100/100 |
+| [2006 Final](./2006%20Final) | 100/100 |
+| [2008 Final](./2008%20Final) | 100/100 |
 
 ## My Other MIT Coursework
 
